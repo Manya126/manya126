@@ -14,24 +14,25 @@ I'm a Full Stack Developer, Data Analysts with expertise in building scalable we
 ---
 
 
-## Languages and Tools  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+ 
+## Languages and Tools
 
-  <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
+<p align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" width="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" width="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" width="80" />
+  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="80" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="80" />
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="80" />
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="80" />
+  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" width="80" />
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" width="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" width="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="40" />
+</p>
 
-</div>
 
 
 <br/>  
